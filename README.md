@@ -42,7 +42,7 @@
    // changes..
    
    // PRODUCING PATCHES  
-   git format-patch -2 -o /mnt/sdb1/PatchDir
+   git format-patch -2 -o /Path/PatchDir
    
    // DOING SOME CODE CHANGES ONLINE, ON THE REMOTE  
    // changes..
