@@ -2,9 +2,9 @@
 
 ## DOC
 
-   git config --global user.name "[YourName]"
-   git config --global user.email "[YourEmail]"
-   git config --global core.editor "vi"
+   git config --global user.name "[YourName]"  
+   git config --global user.email "[YourEmail]"  
+   git config --global core.editor "vi"  
 
    git clone https://github.com/par7133/TestPatch.git
 
